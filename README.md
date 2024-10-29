@@ -1,4 +1,4 @@
-# Lab: First Node.js & Git project
+# Lab: First Node.js
 
 ## Objectives
 
