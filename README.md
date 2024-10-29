@@ -8,7 +8,7 @@
 4. Integrate Nodemon
 5. Create a basic application with multiple routes
 
-## Create a basic application with multiple routes (hard level)
+## Create a basic application with multiple routes
 
 Create an application with 3 routes:
 
